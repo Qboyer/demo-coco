@@ -1,0 +1,10 @@
+// Partie A du code
+int fonction_a(int foo, int bar){
+    return foo + bar;
+}
+// Partie B du code
+int main(){
+    int toto = 1;
+    int tata = 2;
+    int truc = fonction_a(toto,tata);
+}
